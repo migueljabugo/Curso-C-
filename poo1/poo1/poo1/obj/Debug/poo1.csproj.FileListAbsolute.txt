@@ -1,0 +1,7 @@
+G:\CursoDesarrolloVideoJuegos\c#\poo1\poo1\poo1\bin\Debug\poo1.exe.config
+G:\CursoDesarrolloVideoJuegos\c#\poo1\poo1\poo1\bin\Debug\poo1.exe
+G:\CursoDesarrolloVideoJuegos\c#\poo1\poo1\poo1\bin\Debug\poo1.pdb
+G:\CursoDesarrolloVideoJuegos\c#\poo1\poo1\poo1\obj\Debug\poo1.csprojResolveAssemblyReference.cache
+G:\CursoDesarrolloVideoJuegos\c#\poo1\poo1\poo1\obj\Debug\poo1.csproj.CoreCompileInputs.cache
+G:\CursoDesarrolloVideoJuegos\c#\poo1\poo1\poo1\obj\Debug\poo1.exe
+G:\CursoDesarrolloVideoJuegos\c#\poo1\poo1\poo1\obj\Debug\poo1.pdb

@@ -1,0 +1,7 @@
+G:\CursoDesarrolloVideoJuegos\c#\RRHH\RRHH\RRHH\bin\Debug\RRHH.exe.config
+G:\CursoDesarrolloVideoJuegos\c#\RRHH\RRHH\RRHH\bin\Debug\RRHH.exe
+G:\CursoDesarrolloVideoJuegos\c#\RRHH\RRHH\RRHH\bin\Debug\RRHH.pdb
+G:\CursoDesarrolloVideoJuegos\c#\RRHH\RRHH\RRHH\obj\Debug\RRHH.csprojResolveAssemblyReference.cache
+G:\CursoDesarrolloVideoJuegos\c#\RRHH\RRHH\RRHH\obj\Debug\RRHH.csproj.CoreCompileInputs.cache
+G:\CursoDesarrolloVideoJuegos\c#\RRHH\RRHH\RRHH\obj\Debug\RRHH.exe
+G:\CursoDesarrolloVideoJuegos\c#\RRHH\RRHH\RRHH\obj\Debug\RRHH.pdb
