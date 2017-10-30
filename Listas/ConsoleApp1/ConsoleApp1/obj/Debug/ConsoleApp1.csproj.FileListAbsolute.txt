@@ -1,0 +1,7 @@
+G:\CursoDesarrolloVideoJuegos\c#\Listas\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\CursoDesarrolloVideoJuegos\c#\Listas\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\CursoDesarrolloVideoJuegos\c#\Listas\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\CursoDesarrolloVideoJuegos\c#\Listas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+G:\CursoDesarrolloVideoJuegos\c#\Listas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\CursoDesarrolloVideoJuegos\c#\Listas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\CursoDesarrolloVideoJuegos\c#\Listas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

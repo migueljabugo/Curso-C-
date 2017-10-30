@@ -1,0 +1,7 @@
+G:\CursoDesarrolloVideoJuegos\c#\Musify\Musify\bin\Debug\Musify.exe.config
+G:\CursoDesarrolloVideoJuegos\c#\Musify\Musify\bin\Debug\Musify.exe
+G:\CursoDesarrolloVideoJuegos\c#\Musify\Musify\bin\Debug\Musify.pdb
+G:\CursoDesarrolloVideoJuegos\c#\Musify\Musify\obj\Debug\Musify.csprojResolveAssemblyReference.cache
+G:\CursoDesarrolloVideoJuegos\c#\Musify\Musify\obj\Debug\Musify.csproj.CoreCompileInputs.cache
+G:\CursoDesarrolloVideoJuegos\c#\Musify\Musify\obj\Debug\Musify.exe
+G:\CursoDesarrolloVideoJuegos\c#\Musify\Musify\obj\Debug\Musify.pdb

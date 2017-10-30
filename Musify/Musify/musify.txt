@@ -1,0 +1,10 @@
+Nombre cancion1-Autor cancion1-3-2015-Classic-2
+Nombre cancion2-Autor cancion2-2-2015-Jazz-1
+Nombre cancion3-Autor cancion3-5-2011-Folk-3
+Nombre cancion4-Autor cancion4-4-2000-Pop-5
+Nombre cancion5-Autor cancion5-3-2005-Metal-4
+*+++*
+Playlist1-Nombre cancion1:Autor cancion1,Nombre cancion2:Autor cancion2,Nombre cancion3:Autor cancion3,Nombre cancion4:Autor cancion4,Nombre cancion5:Autor cancion5
+Playlist2-Nombre cancion1:Autor cancion1,Nombre cancion2:Autor cancion2,Nombre cancion3:Autor cancion3,Nombre cancion4:Autor cancion4,Nombre cancion5:Autor cancion5
+Playlist3-Nombre cancion1:Autor cancion1,Nombre cancion2:Autor cancion2,Nombre cancion3:Autor cancion3,Nombre cancion4:Autor cancion4,Nombre cancion5:Autor cancion5
+
